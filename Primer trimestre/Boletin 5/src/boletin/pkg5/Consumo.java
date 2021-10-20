@@ -61,13 +61,21 @@ public class Consumo {
     }
 
 
-    public void show(){
+    public void showall(){
         System.out.println("Los kilometros recorridos son: " + this.km + "\n Los litros consumidos son : " + this.litros + "\n La velocidad media es: " + this.vMed + "\n El precio de la gasolina es: " + this.pGas + "\n El tiempo para realizar el viaje es de: " + getTempo() +"Horas" + "\n El consumo medio es de: " + consumoMedio() +"l/100km" + "\n Los euros gastados por el consumo cada 100km son: " + consumoEuros());
         
     }
-
-
-
+    public void showconsumomedio(){
+        System.out.println("El consumo medio del vehículo es de: " + consumoMedio() + " l/100km");
+    }
+    
+    public void show(){
+        System.out.println("Los kilometros recorridos son: " + this.km + "\n Los litros consumidos son : " + this.litros + "\n La velocidad media es: " + this.vMed + "\n El precio de la gasolina es: " + this.pGas);
+        
+    }
+    
+    
+    
 }
 
 

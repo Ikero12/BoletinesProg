@@ -20,11 +20,28 @@ public class Boletin5 {
         System.out.println("Introduzca el precio de la gasolina: ");
         float pGas = sc.nextFloat();
         
-        
-        
         Consumo objConsumo1 = new Consumo(km,litros, vMed, pGas);
           
-        objConsumo1.show();
+        objConsumo1.showall();
+        
+        System.out.println("\n");
+        
+        Consumo objConsumo2 = new Consumo(100,50,50, (float) 1.57);
+        
+        objConsumo2.show();
+        
+        objConsumo2.showconsumomedio();
+        
+        objConsumo2.setlitros(20);
+        objConsumo2.show();
+        
+        
+        
+        
+        
+        
+        
+        
             
         
     }

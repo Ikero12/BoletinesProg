@@ -12,8 +12,6 @@ public class Consumo {
     private float pGas;
     
     
-    //Métodos
-    
     public Consumo(){
     
     
@@ -27,6 +25,10 @@ public class Consumo {
         this.pGas = pGas;
     
     }
+    
+    
+    //Métodos
+    
     
     public float getTempo(){
         float Tiempo = km/vMed;

@@ -10,6 +10,8 @@ public class Numeros {
     public void Numerotecleado(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Teclea un número entero: ");
+
+
         int num1 = sc.nextInt();
         
         
@@ -26,7 +28,11 @@ public class Numeros {
     
                 
     }
-    
+
+    /**
+     * Método para pedir un número al usuario de tipo int
+     * @return número introducido por usuario
+     */
     public int pedirnumero(){
         
        int num = Integer.parseInt(JOptionPane.showInputDialog("Teclea un número cualquiera (positivo o negativo): "));

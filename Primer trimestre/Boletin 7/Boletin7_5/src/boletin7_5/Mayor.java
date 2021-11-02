@@ -15,30 +15,18 @@ public class Mayor {
         
         if(num1>num2){
             if(num1>num3){
-                JOptionPane.showMessageDialog(null, "El primer número " + num1 + " es el mayor de todos.");
+                JOptionPane.showMessageDialog(null, "El primer número es el mayor.");
             }
         }
-        else if(num2>num1){
-            if (num2>num3){
-                JOptionPane.showMessageDialog(null, "El segundo número " + num2 + " es el mayor de todos.");
-            }
+        else if(num2>num3){
+                JOptionPane.showMessageDialog(null, "El segundo número es el mayor.");  
         }
-        else if(num3>num1){
-            if(num3>num2){
-                JOptionPane.showMessageDialog(null, "El tercer número " + num3 + " es el mayor de todos.");
-            }
+        else {
+                JOptionPane.showMessageDialog(null, "El tercer número es el mayor.");
         }
     
     
     }   
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     

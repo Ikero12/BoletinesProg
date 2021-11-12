@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0c0f3d5-4783-44d0-ba18-277cf7a1d451" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 9/Boletin9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 9/Boletin9_4/Boletin9_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boletin6_3/src/boletin6_3/Boletin6_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primer trimestre/Boletin 5/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 5/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin 7_1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin 7_1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_4/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_4/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_4/src/boletin7_4/Peso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_4/src/boletin7_4/Peso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_5/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Primer trimestre/Boletin 7/Boletin7_5/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20oHFk9XYFwIgpbyGtLVkM08eHJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Boletin8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boletin8_1.Boletin8_1" />
+      <module name="Boletin8_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boletin8_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boletin8_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c0f3d5-4783-44d0-ba18-277cf7a1d451" name="Changes" comment="" />
+      <created>1636703918429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636703918429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/boletin8_1/Articulos.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

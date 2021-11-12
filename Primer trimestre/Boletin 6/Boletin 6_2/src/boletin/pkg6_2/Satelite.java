@@ -11,7 +11,7 @@ public class Satelite {
     private double paralelo;
     private double distanciaTerra;
     
- public Satelite(){
+ public Satelite(){                                     //Constructor
 
   meridiano = paralelo = distanciaTerra = 0;
           

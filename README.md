@@ -8,3 +8,4 @@
 7. [Boletin 7](https://github.com/Ikero12/BoletinesProg/tree/main/Primer%20trimestre/Boletin%207)
 8. [Boletin 8](https://github.com/Ikero12/BoletinesProg/tree/main/Primer%20trimestre/Boletin%208)
 9. [Boletin 9](https://github.com/Ikero12/BoletinesProg/tree/main/Primer%20trimestre/Boletin%209)
+10.[Boletin 11](https://github.com/Ikero12/BoletinesProg/tree/main/Primer%20trimestre/Boletin%2010)

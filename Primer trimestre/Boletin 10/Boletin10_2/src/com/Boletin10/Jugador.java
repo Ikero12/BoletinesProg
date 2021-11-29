@@ -15,7 +15,7 @@ public class Jugador {
         do {
             numeroAdv = Integer.parseInt(JOptionPane.showInputDialog(jugador1 + " Introduce número entre 0 y 50 aquí"));
             if (numeroAdv != n) {
-                diferencianum();
+                diferenciaNum();
             } else {
                 JOptionPane.showMessageDialog(null, "U won111!!11!!11!1!");
                 i++;

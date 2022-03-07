@@ -1,0 +1,13 @@
+asdf,fdas,435.0,21
+ss,ss,22.0,33
+asdff,fdasdfasdf,233.0,43
+sadfasdfasdfa,adfasdfaf,2341234.0,1312
+sdfasdf,sadfasf,1231.0,3123
+asdfas,dsfas,43523.0,32421
+asdfa,dsfa,452.0,43252
+f,f,34.0,3
+r,r,4.0,4
+h,h,5.0,5
+g,g,45.0,45
+fdfd,fdfd,4343.0,43
+sadf,sadf,45.0,65

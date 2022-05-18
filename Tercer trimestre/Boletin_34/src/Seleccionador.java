@@ -17,7 +17,7 @@ public class Seleccionador extends SeleccionFutbol {
 
     @Override
     public void viajar() {
-        System.out.println("El seleccionador viaja.");
+        System.out.println(this.getApellidos()+" viaja.");
     }
 
     @Override

@@ -1,24 +1,21 @@
 package DB;
 
-import jdk.nashorn.internal.scripts.JO;
-
 import javax.swing.*;
-import java.net.ConnectException;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Update {
+public class Delete {
 
-    public static void updateSimple(){
+    public static void deleteSimple(){
         Connect.connection();
 
         try{
-            String query = "Select id from Personas where id=" + JOptionPane.showInputDialog("Id que quiere actualizar");
+            String query = "Select id from Personas where id=" + JOptionPane.showInputDialog("Id que quiere Eliminar: ");
             Statement st = Connect.conexion.createStatement();
             ResultSet res = st.executeQuery(query);
             res.next();
             int id = res.getInt("ID");
-            st.executeUpdate("UPDATE Personas SET nombre='" + JOptionPane.showInputDialog("Introducir nuevo nombre: ")+"' WHERE id="+id);
+            st.executeUpdate("DELETE FROM Personas WHERE id="+id);
 
 
 
@@ -30,5 +27,6 @@ public class Update {
 
 
     }
+
 
 }

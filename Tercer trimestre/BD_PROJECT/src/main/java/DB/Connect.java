@@ -5,15 +5,17 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.SQLOutput;
-
 import com.mysql.jdbc.Driver;
 
 public class Connect {
     final static String url = "jdbc:mysql://localhost/prueba";
-    final static String user = "Iker";
-    final static String pw="Iker123.";
+    final static String user = "app";
+    final static String pw="123";
 
     static Connection conexion = null;
+
+
+
     public static void connection(){
 
         try {
